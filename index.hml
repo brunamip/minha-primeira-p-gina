@@ -2,10 +2,23 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Minha Primeira Página</title>
+    <title>Bem-vindo(a)!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 20%;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        h1 {
+            color: #4CAF50;
+        }
+    </style>
 </head>
 <body>
-    <h1>Olá, mundo!</h1>
-    <p>Essa é a minha primeira página HTML publicada no GitHub Pages.</p>
+    <h1>Minha Página Simples</h1>
+    <p>Essa é minha primeira página HTML hospedada no GitHub Pages.</p>
+    <p>Espero que você goste!</p>
 </body>
 </html>
